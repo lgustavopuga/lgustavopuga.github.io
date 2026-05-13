@@ -29,7 +29,7 @@ author:
   bio              : "Research Assistant · Open Innovation · Business Intelligence"
   location         : "Atibaia, SP - Brazil"
   employer         : "Embraer"
-  uri              : "https://www.embraer.com/en" # URL
+  uri              : # "https://www.embraer.com/en" # URL
   email            : "luiscezarpuga@gmail.com" 
 
   # Academic websites
