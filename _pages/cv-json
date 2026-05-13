@@ -1,0 +1,431 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "",
+    "size": 128,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 100,
+    "borderColor": "rgba(0, 0, 0, 0.5)",
+    "borderWidth": 1,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Luis G. C. Puga",
+    "headline": "Inovação Aberta | Startups | Tecnologia",
+    "email": "luiscezarpuga@gmail.com",
+    "phone": "+5511982556565",
+    "location": "Atibaia, SP - Brasil",
+    "website": {
+      "url": "",
+      "label": ""
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "Resumo",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p>Administrador, pós-graduando em Business Analysis and Intelligence, com experiência em Business Intelligence e gestão de inovação corporativa. Atuo com Inovação Aberta na Embraer, conectando startups aos desafios estratégicos e utilizando BI para scouting, governança e decisões orientadas por dados.</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "Perfis",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "cnbk5f0aeqvhx69ebk7hktwd",
+          "hidden": false,
+          "icon": "linkedin",
+          "iconColor": "",
+          "network": "Linkedin.com/in/lgcp",
+          "username": "lgcp",
+          "website": {
+            "url": "https://www.linkedin.com/in/lgcp/",
+            "label": "",
+            "inlineLink": true
+          }
+        },
+        {
+          "id": "ukl0uecvzkgm27mlye0wazlb",
+          "hidden": false,
+          "icon": "github",
+          "iconColor": "",
+          "network": "GitHub.com/lgustavopuga",
+          "username": "lgustavopuga",
+          "website": {
+            "url": "https://github.com/lgustavopuga",
+            "label": "",
+            "inlineLink": true
+          }
+        },
+        {
+          "id": "rw884r2ywmajgzsfxoid10vi",
+          "hidden": true,
+          "icon": "academia",
+          "iconColor": "",
+          "network": "Lattes",
+          "username": "Lattes",
+          "website": {
+            "url": "http://lattes.cnpq.br/8981876959978569",
+            "label": "",
+            "inlineLink": false
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experiencia",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "019cb515-f13b-727c-b075-dd430e403d3b",
+          "hidden": false,
+          "company": "Embraer",
+          "position": " Research Assistant (Open Innovation)",
+          "location": "São José dos Campos",
+          "period": "Fevereiro 2026 - Presente",
+          "website": {
+            "url": "https://www.embraer.com/corporate-innovation/pt/",
+            "label": "",
+            "inlineLink": true
+          },
+          "description": "<ul><li><p>Conduzi o Embraer Startup Program, conectando startups e avaliando soluções para desafios estratégicos e PoCs.</p></li><li><p>Apliquei Lean Six Sigma para otimizar processos e comunicação entre parceiros e áreas internas.</p></li><li><p>Monitorei KPIs, gerei dashboards e gerenciei contratos e entregáveis com parceiros institucionais.</p></li></ul><p></p>",
+          "roles": []
+        },
+        {
+          "id": "lhw25d7gf32wgdfpsktf6e0x",
+          "hidden": false,
+          "company": "Viiv Empreendimentos",
+          "position": "Trainee Inteligência Comercial",
+          "location": "Catanduva, SP",
+          "period": "Abril 2025 – Fevereiro 2026",
+          "website": {
+            "url": "https://www.viivempreendimentos.com.br/",
+            "label": "viivempreendimentos.com.br",
+            "inlineLink": true
+          },
+          "description": "<ul><li><p>Pipelines ETL/ELT em SQL integrando dados de vendas ao Data Warehouse</p></li><li><p>Dashboards Power BI e relatórios automatizados para análise comercial</p></li><li><p>Modelagem dimensional e levantamento de requisitos com área de negócio</p></li></ul>",
+          "roles": []
+        },
+        {
+          "id": "r6543lil53ntrxmvel53gbtm",
+          "hidden": false,
+          "company": "CBA | Companhia Brasileira de Alumínio",
+          "position": "Research Assistant Digital Transformation",
+          "location": "São Paulo, SP",
+          "period": "Janeiro 2024 – Março de 2025",
+          "website": {
+            "url": "https://ri.cba.com.br/",
+            "label": "cba.com.br",
+            "inlineLink": true
+          },
+          "description": "<ul><li><p>Estruturei a governança da inovação e criei dashboards estratégicos em Power BI para monitoramento de KPIs.</p></li><li><p>Liderei a organização de hackathons e ciclos de priorização estratégica (Program Planning) com a diretoria.</p></li><li><p>Gerenciei o ecossistema de parceiros e documentei processos para inovação aberta e gestão do conhecimento.</p></li></ul>",
+          "roles": []
+        },
+        {
+          "id": "gbc3472hseg36a9rsn28gleo",
+          "hidden": false,
+          "company": "Algar Telecom",
+          "position": "Estagiário",
+          "location": "Uberlandia, MG",
+          "period": "Janeiro 2022 – Dezembro de 2023",
+          "website": {
+            "url": "https://ri.algar.com.br/",
+            "label": "algar.com.br",
+            "inlineLink": true
+          },
+          "description": "<ul><li><p>Análise de churn e NPS identificando causas de cancelamento</p></li><li><p>Extração e modelagem de dados para relatórios de performance comercial </p></li><li><p>Identificação de erros em bases de cadastro e melhorias em ferramentas internas</p></li></ul>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "Formação Acadêmica",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "yo3p200zo45c6cdqc6a2vtt3",
+          "hidden": false,
+          "school": "UNESP",
+          "degree": "Bacharel",
+          "area": "Administração de Empresas",
+          "grade": "",
+          "location": "",
+          "period": "Março 2018 - Janeiro 2024",
+          "website": {
+            "url": "https://www.tupa.unesp.br/",
+            "label": "tupa.unesp.br",
+            "inlineLink": true
+          },
+          "description": ""
+        },
+        {
+          "id": "nr6virfon9xurdhvufb4exp8",
+          "hidden": false,
+          "school": "Data Science Academy",
+          "degree": "Pós-Graduação",
+          "area": "Análise e Inteligência de Negócios",
+          "grade": "",
+          "location": "",
+          "period": "Agosto 2025 - Presente",
+          "website": {
+            "url": "https://www.datascienceacademy.com.br/",
+            "label": "datascienceacademy.com.br",
+            "inlineLink": true
+          },
+          "description": ""
+        }
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "columns": 1,
+      "hidden": true,
+      "items": [
+        {
+          "id": "yw843emozcth8s1ubi1ubvlf",
+          "hidden": true,
+          "name": "E-Commerce Platform",
+          "period": "",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p>Led the development of a full-stack e-commerce platform, improving sales conversion by 25%.</p>"
+        },
+        {
+          "id": "ncxgdjjky54gh59iz2t1xi1v",
+          "hidden": true,
+          "name": "Interactive Dashboard",
+          "period": "",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<p>Created an interactive analytics dashboard for a SaaS application, enhancing data visualization for clients.</p>"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Habilidades",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "hn0keriukh6c0ojktl9gsgjm",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Soft-Skills",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Comunicação",
+            "Pensamento Crítico",
+            "Storytelling com Dados",
+            "Resolução de Problemas",
+            "Colaboração",
+            "Adaptabilidade",
+            "Atenção aos Detalhes"
+          ]
+        },
+        {
+          "id": "r8c3y47vykausqrgmzwg5pur",
+          "hidden": false,
+          "icon": "",
+          "iconColor": "",
+          "name": "Hard-Skills",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Excel",
+            "Power BI",
+            "Python",
+            "SQL",
+            "Apache Airflow",
+            "DBT",
+            "Machine Learning",
+            "Data Warehouse",
+            "Docker",
+            "Git",
+            "Cloud Computing"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "Idiomas",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "y2b1zvm4nb5bxgpv46bv6axd",
+          "hidden": false,
+          "language": "Inglês",
+          "fluency": "Nativo",
+          "level": 0
+        },
+        {
+          "id": "n0hzzdzl7fo49rxjknyt0t83",
+          "hidden": false,
+          "language": "Espanhol",
+          "fluency": "Básico",
+          "level": 0
+        }
+      ]
+    },
+    "interests": {
+      "title": "Interests",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "awards": {
+      "title": "Premios",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "certifications": {
+      "title": "Certificados",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "spdhh9rrqi1gvj0yqnbqunlo",
+          "hidden": false,
+          "title": "Google Data Analytics Professional Certificate",
+          "issuer": "",
+          "date": "",
+          "website": {
+            "url": "https://www.coursera.org/account/accomplishments/professional-cert/536BV47QJG8L",
+            "label": "coursera.org",
+            "inlineLink": true
+          },
+          "description": ""
+        }
+      ]
+    },
+    "publications": {
+      "title": "Artigos",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "wijj5ofv2rixvw8bzze7w8wd",
+          "hidden": true,
+          "title": "EXPANSÃO RECENTE DA PRODUÇÃO DE CANA DE AÇÚCAR, USO DATERRA E LOCALIZAÇÃO DAS USINAS DE PRODUÇÃO DE ETANOL",
+          "publisher": "XXXIV CIC UNESP",
+          "date": "Novembro 2022",
+          "website": {
+            "url": "https://www.even3.com.br/xxxivcicunesp-255749/",
+            "label": "https://www.even3.com.br/",
+            "inlineLink": false
+          },
+          "description": "<p></p>"
+        }
+      ]
+    },
+    "volunteer": {
+      "title": "Volunteering",
+      "columns": 1,
+      "hidden": false,
+      "items": []
+    },
+    "references": {
+      "title": "References",
+      "columns": 1,
+      "hidden": true,
+      "items": [
+        {
+          "id": "f2sv5z0cce6ztjl87yuk8fak",
+          "hidden": false,
+          "name": "Available upon request",
+          "position": "",
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "phone": "",
+          "description": ""
+        }
+      ]
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "glalie",
+    "layout": {
+      "sidebarWidth": 32.17,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "experience",
+            "education",
+            "projects",
+            "references",
+            "publications"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills",
+            "languages",
+            "certifications",
+            "interests",
+            "awards",
+            "volunteer"
+          ]
+        }
+      ]
+    },
+    "page": {
+      "gapX": 4,
+      "gapY": 6,
+      "marginX": 14,
+      "marginY": 14,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": false
+    },
+    "design": {
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(202, 138, 4, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "Merriweather",
+        "fontWeights": [
+          "400"
+        ],
+        "fontSize": 9.75,
+        "lineHeight": 1.75
+      },
+      "heading": {
+        "fontFamily": "Merriweather",
+        "fontWeights": [
+          "600"
+        ],
+        "fontSize": 12.75,
+        "lineHeight": 1.75
+      }
+    },
+    "notes": ""
+  }
+}
