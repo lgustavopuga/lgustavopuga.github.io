@@ -22,7 +22,8 @@ main:
 #    url: /markdown/
     
   - title: CV
-    url: /cv/
+    url: "https://rxresu.me/gustavoxcp/curriculo-atual"
+#   url: /cv/
     
   - title: Portfolio
     url: /portfolio/
@@ -31,5 +32,4 @@ main:
     url: /year-archive/
     
   - title: Publications
-#   url: /publications/
-    url: "https://rxresu.me/gustavoxcp/curriculo-atual"
+    url: /publications/
