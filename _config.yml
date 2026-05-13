@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Luis G. C. Puga"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Luis G. C. Puga"
 description              : &description "Research Assistant · Open Innovation · Business Intelligence"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,8 +23,8 @@ repository               : "lgustavopuga/lgustavopuga.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "004.jpeg"
+  name             : "Luis G. C. Puga"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
