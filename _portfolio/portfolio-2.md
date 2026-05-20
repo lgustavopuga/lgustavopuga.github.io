@@ -1,5 +1,5 @@
 ---
-title: "Case Study: Do Caos dos Dados à Cultura Data-Driven"
+title: "PT_BR - Case Study: Do Caos dos Dados à Cultura Data-Driven"
 excerpt: "Case study sobre engenharia de dados, unificando silos e consolidando cultura data-driven <br/><img src='/images/data-driven-ilustracao.jpg'>"
 collection: portfolio
 ---
