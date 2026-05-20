@@ -1,6 +1,6 @@
 ---
 title: "PT_BR - 2022 UNESP Sugar Cane Expansion Ethanol Plants Study"
-excerpt: "Expansão da cana no Brasil ampliou usinas de etanol, com destaque em SP e avanço ao Centro-Oeste. <br/><img src='images/Health_Benefits_Of_Sugarcane.jpg'>"
+excerpt: "Expansão da cana no Brasil ampliou usinas de etanol, com destaque em SP e avanço ao Centro-Oeste. <br/><img src='/images/Health_Benefits_Of_Sugarcane.jpg'>"
 collection: portfolio
 ---
 
