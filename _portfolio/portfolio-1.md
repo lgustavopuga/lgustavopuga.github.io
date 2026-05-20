@@ -1,6 +1,6 @@
 ---
 title: "PT_BR - 2022 UNESP Sugar Cane Expansion Ethanol Plants Study"
-excerpt: "<br/><img src='https://lgustavopuga.github.io/images/2022-UNESP-Sugar-Cane-Expansion-Ethanol-Plants-Study.jpg'>"
+excerpt: "<br/><img src='images/Health_Benefits_Of_Sugarcane.jpg'>"
 collection: portfolio
 ---
 
